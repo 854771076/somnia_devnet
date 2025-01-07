@@ -1,0 +1,3 @@
+web3==6.19.0
+loguru
+fake_useragent
