@@ -43,7 +43,7 @@ class Somnia_TestNet_Bot:
         wallet_path="./wallets.csv",
         contract_path="./contract",
         rpc_url="https://dream-rpc.somnia.network/",
-        proxy: str = "http://zone-E0CBA752:BC485BD8CDF44726A647E2870B47F9B5@proxy.bytio.com:8080",
+        proxy: str = "http://xxx",
     ):
         self.headers={
             'Accept': '*/*',
